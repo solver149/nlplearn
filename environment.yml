@@ -1,0 +1,10 @@
+name: trading            # default is root
+channels:
+- conda-forge
+dependencies:         # everything under this, installed by conda
+- nltk==3.4.4
+- pandas==1.0.3
+- matplotlib=3.2.2
+  
+# conda env update --file D:\Users\vamsi149\Documents\01_Vamsi\02_notebooks_conda\nlplearn\environment.yml  
+# https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
