@@ -1,4 +1,4 @@
-name: trading            # default is root
+name: nlplearn            # default is root
 channels:
 - conda-forge
 dependencies:         # everything under this, installed by conda
